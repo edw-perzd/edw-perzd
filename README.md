@@ -7,7 +7,7 @@
 - 🎓 Actualmente me encuentro estudiando la Ingeniería en Desarrollo de Software.
 
 
-## 🧰 Tecnologías y herramientas que uso
+## 🧰 Lenguajes de programación
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -18,11 +18,17 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
 
+## 🗄️ Bases de datos
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+
 ### ⚙️ Frameworks
 
 ![Laravel](https://img.shields.io/badge/-Laravel-F55247?logo=laravel&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
 
 ## 📊 GitHub Stats
 
