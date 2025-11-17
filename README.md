@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Eduardo Pérez
+# ¡Hola! Soy Eduardo
 
 ## 👨‍🎓 Sobre mí
 
@@ -29,10 +29,6 @@
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
-
-## 📊 GitHub Stats
-
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=edw-perzd&show_icons=true&theme=radical)
 
 
 ## 📫 Cómo contactarme
